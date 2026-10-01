@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"@tanstack/react-query": "^5.103.1",
+		"lucide-react": "^1.47.0",
+		"clsx": "^2.1.1",
+		"tailwind-merge": "^3.7.0",
+		"class-variance-authority": "^0.7.1",
+		"date-fns": "^4.4.0",
+		"recharts": "^3.10.1"
+	}
+}
